@@ -1,0 +1,8 @@
+body {background-color: rgba(116, 11, 165, 0.925);}
+header {background-color: rgb(255, 183, 0); margin-left:200px; margin-right:200px;box-shadow: 10px 10px 10px rgb(0, 0, 0);  text-shadow:5px 5px 5 px whitesmoke ; border-radius: 15px; margin-top: 50px; padding-bottom: 50px;}
+main {background-color: rgb(255, 255, 255);margin-left:200px; margin-right:200px ;box-shadow: 10px 10px 10px rgb(0, 0, 0);  text-shadow:5px 5px 5 px whitesmoke ; border-radius: 15px;padding-bottom: 50px;}
+footer {background-color: rgb(255, 183, 0);margin-left:200px; margin-right:200px;box-shadow: 10px 10px 10px rgb(0, 0, 0);  text-shadow:5px 5px 5 px whitesmoke ; border-radius: 15px; text-decoration: dotted;padding-bottom: 50px;}
+h1 {color: whitesmoke; text-shadow: 10px 10x 10px rgb(96, 16, 161); width: 80%;}
+#imag1 {border-radius: 40px;}
+#imag2 {border-radius: 40px;}
+#imag3 {border-radius: 40px;}
